@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubSubmission</string>
+    <string name="nama_user">nama-user</string>
+    <string name="search_here">Search Here</string>
+
+    <string name="tab1">followers</string>
+    <string name="tab2">following</string>
+
+</resources>
